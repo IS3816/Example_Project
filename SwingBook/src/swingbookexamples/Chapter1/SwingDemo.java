@@ -17,6 +17,5 @@ public class SwingDemo
     
     jfrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     jfrm.setVisible(true);
-    
     }   
 }
